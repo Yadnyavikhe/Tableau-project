@@ -53,15 +53,11 @@ The Tableau dashboard includes multiple visual components:
 
 1. Scatter Plot – Shows average salary in USD by experience level and employment type.
 
-
 2. Map Visualization – Displays the geographical distribution of salaries across countries.
-
 
 3. Pie Charts – Represent company size, experience level, and employment type proportions.
 
-
 4. Bar Chart – Highlights the top 10 employee residence locations.
-
 
 5. Matrix View – Displays salary breakdown by job title and experience level.
 
@@ -85,5 +81,31 @@ It can assist:
 Job seekers to target high-paying countries or roles.
 
 Recruiters to benchmark competitive salaries.
+
+*********📚 Goodreads Books Data Analysis Dashboard(Project 2)**********
+
+Overview:
+This Tableau dashboard visualizes insights from the Goodreads Books dataset. It analyzes trends in book publications, author productivity, publisher dominance, language distribution, and reader engagement metrics such as ratings and reviews.
+
+Key Insights:
+
+Book publications increased sharply after 1980, peaking in the 2000s.
+
+Top authors include Stephen King, P.G. Wodehouse, and Rumiko Takahashi.
+
+Leading publishers are Vintage and Penguin Books.
+
+English (eng, en-US) dominates as the primary publication language.
+
+Twilight and The Hobbit have the highest reader rating counts.
+
+Tools Used:
+Tableau Public – for interactive data visualization
+
+Dataset: Goodreads Books Data
+
+Objective:
+To explore global book trends and identify top-performing authors, publishers, and titles based on publication history and reader feedback
+
 
 Analysts to study market demand for data professionals.
